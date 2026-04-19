@@ -37,3 +37,6 @@ sticky-notes/
 
 ⭐ If you like this project, consider giving it a star!
 
+## Author 
+Ayush
+
